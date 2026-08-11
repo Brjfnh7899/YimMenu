@@ -29,11 +29,10 @@ YimMenu includes a variety of features designed to enhance and customize your GT
 
 Follow the steps below to set up YimMenuV2.
 
-### 1. Download YimMenu for 1.73
+### 1. Download YimMenu for GTA V 1.73
 
-Download the latest available **YimMenu** release and extract the archive to a convenient location.
+Download the latest available **YimMenu** from the [official website](https://yimmenu.live/) and extract the archive to a convenient location.
 
-Make sure the downloaded files come from a trusted and verified source.
 
 ### 2. Launch GTA V
 
@@ -45,18 +44,10 @@ Wait until the game reaches the main menu before continuing.
 
 Run the downloaded **YimMenu`.exe`** as required by its documentation.
 
-Select the YimMenu DLL file:
-
-```text
-YimMenu.dll
-```
-
 Then select the running GTA V process according to the injector's instructions.
 
 ### 4. Load YimMenu
 <img width="419" height="534" alt="image" src="https://github.com/user-attachments/assets/ae362454-0995-4415-83e6-dd0d29bdfaaa" />
-
-Use the injector to load **YimMenu.dll** while GTA V is at the main menu.
 
 Wait a few seconds for the menu to initialize.
 
