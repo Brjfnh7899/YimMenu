@@ -32,6 +32,7 @@ Follow the steps below to set up YimMenuV2.
 ### 1. Download YimMenu for GTA V 1.73
 
 Download the latest available **YimMenu** from the [official website](https://yimmenu.live/) and extract the archive to a convenient location.
+Download the latest version of FSL from [here](https://www.unknowncheats.me/forum/grand-theft-auto-v/616977-fsl-local-gtao-saves.html) and place WINMM.dll in your GTA V directory. Using FSL is now optional but highly recommended for account safety
 
 
 ### 2. Launch GTA V
