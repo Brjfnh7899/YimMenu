@@ -72,7 +72,6 @@ Press **INSERT** again to hide the menu.
 * Do not use modified or unknown DLL files.
 * If the menu does not initialize, verify version compatibility and your installation files.
 
-> **Tip:** Always download files from trusted and verified sources. Avoid modified or unofficial builds from unknown websites.
 
 ---
 
